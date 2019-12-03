@@ -1,0 +1,2 @@
+# Equivalent-key-Presses
+Equivalent Key Presses is a program solution for Question:Write a function that takes an array containing two strings where each string represents keypresses separated by commas. For this problem,a keypress can be either a printable character or a backspace (represented by -B). String of keypress having backspace erase one preceding character. Function written should determine if the two strings of keypresses are equivalent.
